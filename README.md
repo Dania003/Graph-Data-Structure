@@ -7,3 +7,8 @@ Given a dataset of nodes and edges, this program organizes the data into a graph
 
 The program implements Prim's algorithm to find the MST of the graph which uses a heap data structure.
 
+<img width="884" alt="Screenshot 2023-10-02 103531" src="https://github.com/Dania003/Graph-Data-Structure/assets/69827478/c9ffe07d-bcae-4870-a279-f00fb6a28afe">
+
+
+Program UML
+![P4 UML](https://github.com/Dania003/Graph-Data-Structure/assets/69827478/e4d00c90-83d3-41f7-8d35-d274c0c73ad2)
